@@ -1,3 +1,3 @@
-��# README #
+# README #
 
 #some changes on github#
